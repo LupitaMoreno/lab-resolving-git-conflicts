@@ -2,7 +2,6 @@
 # Who am I
 I'am Guadalupe Moreno, 
 
-
 I'm from Mexico city but I've lived in some other states, I've been in Morelos, Aguascalientes, Veracruz and Guadalajara.
 
 I'm a solar energy expert, I work to make  the energy transition a soft way to for the city.
@@ -38,3 +37,4 @@ My large time goal y to make me an specialist in data for be an indepenten profe
 * Which industry will you seek employment in?
 * What will your future role look like?
 * What is your career goal?
+
